@@ -9,3 +9,11 @@ Final-year Electronics and Telecommunication Engineering student with hands-on e
 
 Currently building and documenting embedded system projects on GitHub.
 
+## 🛠️ Skills & Tools
+
+- Programming: C, C++
+- Microcontrollers: Arduino, PIC, STM32 (basic)
+- Sensors: DHT11, LDR, Ultrasonic, PIR
+- Communication: UART, I2C, SPI (basic), CAN (learning)
+- Tools: Arduino IDE, Proteus, Multisim, GitHub
+
